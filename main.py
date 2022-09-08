@@ -1,9 +1,9 @@
 from telegram import *
 from telegram.ext import *
 
-bot = Bot("5428926600:AAF3oh_jpyO9VSdncq6A7WHPma4ng6PDL80")
+bot = Bot("")
 
-updater = Updater("5428926600:AAF3oh_jpyO9VSdncq6A7WHPma4ng6PDL80", use_context=True)
+updater = Updater("", use_context=True)
 
 dispatcher = updater.dispatcher
 
