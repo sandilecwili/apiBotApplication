@@ -4,7 +4,7 @@ import requests
 
 app = Flask(__name__)
 
-token = "5628829494:AAFiLe_jer4qrDg9AInSb4zYhDuo1rGvioo"
+token = ""
 
 
 def welcome_msg(item):
